@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 ![info](https://github-readme-stats.vercel.app/api?username=Super-ZZGuo&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Super-ZZguo&layout=compact)](https://github.com/Super-ZZguo/github-readme-stats)
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Super-ZZGuo&theme=default_repocard&layout=compact)
