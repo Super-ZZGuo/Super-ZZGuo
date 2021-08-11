@@ -6,7 +6,7 @@
 ### 💻 Working on. 
  -  -->
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" /> -->
 
 ![info](https://github-readme-stats.vercel.app/api?username=Super-ZZGuo&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
@@ -14,7 +14,12 @@
 
 <!-- ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+- 💻 &#160; 
+![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)
+![](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
+![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5t&logoColor=ffffff)
+
 
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
