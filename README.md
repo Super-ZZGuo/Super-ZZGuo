@@ -1,7 +1,8 @@
 
-## Hi there 👋,           
+## 👋 Hi,here is my GitHub homepage        
 ### 🧐 About. 
- - 👨‍💻 I'm ZZGuo, Student at Harbin Engineering University.  
+ - 👨‍🎓 I'm ZZGuo, Student at Harbin Engineering University.  
+ - 📆 Recently, I am keen on 🏊‍♀️ swimming and 💪 fitness
 <!-- 
 ### 💻 Working on. 
  -  -->
