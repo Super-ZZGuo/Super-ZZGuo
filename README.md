@@ -2,7 +2,7 @@
 ## 👋 Hi,here is my GitHub homepage        
 ### 🧐 About. 
  - 👨‍🎓 I'm ZZGuo, Student at Harbin Engineering University.  
- - 📆 Recently, I am keen on 🏊‍♀️ swimming and 💪 fitness
+ - 📆 Recently, I am keen on 😫Leetcode and so on。。。
 <!-- 
 ### 💻 Working on. 
  -  -->
