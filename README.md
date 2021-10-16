@@ -7,9 +7,13 @@
 ### 💻 Working on. 
  -  -->
 
-<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" /> -->
 
-![info](https://github-readme-stats.vercel.app/api?username=Super-ZZGuo&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+[![Zzg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Super-ZZGuo&count_private=true&show_icons=true&)](https://github.com/Super-ZZGuo/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Super-ZZGuo&layout=compact&hide=HTML)](https://github.com/Super-ZZGuo/github-readme-stats)
+
+
+
 
 
 
