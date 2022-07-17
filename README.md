@@ -1,10 +1,10 @@
 
 ## 👋 Hi,here is my GitHub homepage        
  - 🤣 My motto : The most important thing in life is to be happy !
+ - 🤔 Be serious : Stay hungry, stay foolish .
  
 ### 🧐 About. 
  - 👨‍🎓 I'm ZZGuo, Student at Harbin Engineering University.  
- - 📆 Recently, I am keen on 😫Leetcode and so on。。。
 <!-- 
 ### 💻 Working on. 
  -  -->
