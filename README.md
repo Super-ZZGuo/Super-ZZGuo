@@ -3,8 +3,8 @@
  - 🤣 My motto : The most important thing in life is to be happy !
  - 🤔 Be serious : Stay hungry, stay foolish .
  
-### 🧐 About. 
- - 👨‍🎓 I'm ZZGuo, Student at Harbin Engineering University.  
+<!-- ### 🧐 About. 
+ - 👨‍🎓 I'm ZZGuo, Student at Harbin Engineering University.  -->
 <!-- 
 ### 💻 Working on. 
  -  -->
